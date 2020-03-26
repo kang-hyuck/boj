@@ -34,7 +34,7 @@
   - Brute force  
   - Back tracking  
   - LCA  
-    * (
+    * naive method
     * O(logN) (use sparse table)
   - 2-SAT
   - GCD, LCM
