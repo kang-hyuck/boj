@@ -1,0 +1,41 @@
+// 프로그래머스, 전화번호 목록
+// a[ (문자길이) ] 에 해당하는 벡터에. (문자길이)에 해당하는 문자열들만 담는다
+// b[ (문자길이) ] : (문자길이)가 있다는 의미 확인용.
+// m[ (문자열) ] : 해당하는 문자가 존재함(1), 존재하지 않음(0).
+//
+// 문자열길이 최대 20이므로. 30까지 b를 돌려보면서 존재하는 작은 (문자길이) 부터 확인.
+// 해당하는 (문자길이) 보다 1이상 큰 경우의 a[]들에서. subsrt(시작 인덱스, 문자갯수) 만큼 뽑아서. map에 있는 문자인지 확인.
+// 워스트 케이스는. 30*30*N 일듯? (= O(N))
+
+#include <string>
+#include <vector>
+#include <map>
+using namespace std;
+
+vector<string> a[30];
+map<string,int> m;
+int b[30];
+
+
+bool solution(vector<string> phone_book) {
+    bool answer = true;
+    int i,j;
+    
+    
+    for( auto s : phone_book )
+    {
+        a[s.size()].push_back(s);
+        b[s.size()] = 1;
+        m[s] = 1;
+    }
+    
+    for(i=0; i<30; i++)
+        if( b[i] == 1)
+            for(j=i+1; j<30; j++)
+                for( auto s : a[j])
+                    if( m[s.substr(0,i)] == 1) answer = false;
+                
+    
+    
+    return answer;
+}
