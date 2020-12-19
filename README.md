@@ -1,8 +1,8 @@
-#List
+# List
 
-### `시뮬레이션`  
- * **BOJ** [캐슬디펜스](https://www.acmicpc.net/problem/17135)  
- * **BOJ** [킹](https://www.acmicpc.net/problem/1063)  
+### 시뮬레이션    
+ * **BOJ** [캐슬디펜스](https://www.acmicpc.net/problem/17135) 17135   
+ * **BOJ** [킹](https://www.acmicpc.net/problem/1063) 1063     
 
 
 
