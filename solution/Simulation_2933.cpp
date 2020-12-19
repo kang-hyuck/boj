@@ -58,8 +58,7 @@ void Throw(int height,int dir)
 {
     int i,j,y,x;
     
-    // 왼쪽에서 던진 경우.
-    if(dir == 0)
+    if(dir == 0) // 왼쪽에서 던진 경우.
     {
         // 부딪히는 지점을 찾는다.
         for(i=0; i<C; i++)
@@ -67,81 +66,47 @@ void Throw(int height,int dir)
         
         // 부딪히지 않았을 경우 종료한다.
         if(i==C) return;
-        
-        // 미네랄을 부순다.
-        map[height][i] = '.';
-    
-        // 우,상,하 순서로 dfs 돌려서 내려앉아야 하는 clustuer가 존재하는지 확인한다.
-        for(j=0; j<3; j++) 
-        {
-            y = height+dy[j];
-            x = i+dx[j];
-            
-            // 맵 범위 안에 있고, 미네랄이 있을 경우 DFS 실행.
-            if( (y>=0 && x>=0 && y<R && x<C) && (map[y][x]=='x'))
-                    DFS(y,x);
-            else
-                continue;
-            
-            // 내려앉아야 하는 Cluster가 존재한다면 처리해준다.
-            if(noDown==0)
-            {
-                sort(v.begin(), v.end(), greater<pair<int,int>>()); // y좌표가 가장 큰 것 (맨아래 행)  순으로 정렬한다.
-                ClusterDown();
-                memset(cluster, 0, sizeof(cluster));
-            }
-            
-            // 다시 사용해야 하므로 초기화 해준다.
-            memset(visited, 0, sizeof(visited));
-            noDown = 0;
-            v.clear();
-        }
-        
-        return;
     }
-    
-    // 오른쪽에서 던진 경우. (왼쪽으로 던진 경우랑 코드는 같은데, 단지 부딪히는 미네랄 확인순서, dfs순서만 다르다)
-    if(dir == 1)
-    {
-        // 부딪히는 지점을 찾는다.
+    if(dir == 1) // 오른쪽에서 던진 경우
+    {   
         for(i=C-1; i>=0; i--)
             if( map[height][i] == 'x' ) break;
         
         // 부딪히지 않았을 경우 종료한다.
         if(i==-1) return;
-        
-        // 미네랄을 부순다.
-        map[height][i] = '.';
-    
-        // 상,하,좌 순서로 dfs 돌려서 내려앉아야 하는 clustuer가 존재하는지 확인한다.
-        for(j=1; j<4; j++) 
-        {
-            y = height+dy[j];
-            x = i+dx[j];
-            
-            // 맵 범위 안에 있고, 미네랄이 있을 경우 DFS 실행.
-            if( (y>=0 && x>=0 && y<R && x<C) && (map[y][x]=='x'))
-                    DFS(y,x);
-            else
-                continue;
-            
-            // 내려앉아야 하는 Cluster가 존재한다면 처리해준다.
-            if(noDown==0)
-            {
-                sort(v.begin(), v.end(), greater<pair<int,int>>()); // y좌표 가장 
-                ClusterDown();
-                memset(cluster, 0, sizeof(cluster));
-            }
-            
-            // 다시 사용해야 하므로 초기화 해준다.
-            memset(visited, 0, sizeof(visited));
-            noDown = 0;
-            v.clear();
-        }
-        
-        return;
     }
+        
+    // 미네랄을 부순다.
+    map[height][i] = '.';
     
+    // 미네랄 부숴진곳 4방향으로 dfs 돌려서 내려앉아야 하는 clustuer가 존재하는지 확인한다.
+    for(j=0; j<4; j++) 
+    {
+        y = height+dy[j];
+        x = i+dx[j];
+            
+        // 맵 범위 안에 있고, 미네랄이 있을 경우 DFS 실행.
+        if( (y>=0 && x>=0 && y<R && x<C) && (map[y][x]=='x'))
+            DFS(y,x);
+        else
+            continue;
+            
+        // 내려앉아야 하는 Cluster가 존재한다면 처리해준다.
+        if(noDown==0)
+        {
+            // sort로 맨 아랫행부터 정렬을 안하면!! 미네랄 1개씩 이동하면서 자기 이전 위치 지우는 곳에서. 다른 미네랄을 지워버릴 수도 있다.
+            sort(v.begin(), v.end(), greater<pair<int,int>>()); // y좌표가 가장 큰 것 (맨아래 행)  순으로 정렬한다.
+            ClusterDown();
+            memset(cluster, 0, sizeof(cluster));
+        }
+            
+        // 다시 사용해야 하므로 초기화 해준다.
+        memset(visited, 0, sizeof(visited));
+        noDown = 0;
+        v.clear();
+    }
+        
+    return;
 }
 
 void DFS(int yy,int xx)
@@ -198,9 +163,10 @@ void ClusterDown()
         // 여기에 온다면 cluster가 1칸 아래로 이동 가능하다는 의미다. v에서 위치정보를 꺼내서 map에 이동한 것을 모두 그려준다.
         for(i=0; i<(int)v.size(); i++)
         {
-            map[v[i].f-1][v[i].s] = '.'; // 이전에 위치했던 곳은 지워준다.
+            map[v[i].f-1][v[i].s] = '.'; // 이전에 위치했던 곳은 지워준다. 맨 아랫행부터 이루어져야한다!! 안그러면 여기서 다른 미네랄 지워질 수 있다.
             map[v[i].f][v[i].s] = 'x';
             cluster[v[i].f][v[i].s]=1;
         }
+ 
     }
 }
