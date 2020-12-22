@@ -4,7 +4,7 @@
  * **BOJ** [캐슬디펜스](https://www.acmicpc.net/problem/17135) 17135   
  * **BOJ** [킹](https://www.acmicpc.net/problem/1063) 1063   
  * **BOJ** [주사위 굴리기]( https://www.acmicpc.net/problem/14499) 14499 [`그림`](./imgs/Simulation_14499.PNG)   
- * **BOJ** [미네랄](https://www.acmicpc.net/problem/2933) 2933 [`그림`](./imgs/Simultation_2933.PNG)     
+ * **BOJ** [미네랄](https://www.acmicpc.net/problem/2933) 2933 [`그림`](./imgs/Simulation_2933.PNG)     
  * **BOJ** [Puyo Puyo](https://www.acmicpc.net/problem/11559) 11559   
 
 ### DFS,BFS  
