@@ -7,6 +7,9 @@
  * **BOJ** [미네랄](https://www.acmicpc.net/problem/2933) 2933   
  * **BOJ** [Puyo Puyo](https://www.acmicpc.net/problem/11559) 11559   
 
+### DFS,BFS  
+ * **BOJ** [치즈](https://www.acmicpc.net/problem/2636) 2636  
+
 
 <!--
 * Sort
