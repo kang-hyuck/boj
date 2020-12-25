@@ -8,11 +8,12 @@
  * **BOJ** [Puyo Puyo](https://www.acmicpc.net/problem/11559) 11559  
  * **BOJ** [보이저 1호](https://www.acmicpc.net/problem/3987) 3987  
  * **BOJ** [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) 2174  
+ * **BOJ** [개미](https://www.acmicpc.net/problem/3048) 3048  
 
 
 ### DFS,BFS  
  * **BOJ** [치즈](https://www.acmicpc.net/problem/2636) 2636  
-
+ * **BOJ** [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) 16954  
 
 <!--
 * Sort
