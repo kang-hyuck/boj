@@ -9,6 +9,7 @@
  * **BOJ** [보이저 1호](https://www.acmicpc.net/problem/3987) 3987  
  * **BOJ** [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) 2174  
  * **BOJ** [개미](https://www.acmicpc.net/problem/3048) 3048  
+ * **BOJ** [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 20055  
 
 
 ### DFS,BFS  
