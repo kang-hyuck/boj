@@ -11,6 +11,7 @@
  * **BOJ** [개미](https://www.acmicpc.net/problem/3048) 3048  
  * **BOJ** [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 20055  
  * **BOJ** [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  20056  
+ * **BOJ** [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  20057   
 
 
 ### DFS,BFS  
