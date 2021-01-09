@@ -1,4 +1,4 @@
-# List
+#List
 
 ### 시뮬레이션    
  * **BOJ** [캐슬디펜스](https://www.acmicpc.net/problem/17135) 17135   
@@ -24,6 +24,11 @@
  * **BOJ** [부분합](https://www.acmicpc.net/problem/1806) 1806  
  * **BOJ** [소수의 연속합](https://www.acmicpc.net/problem/1644) 1644  
  * **BOJ** [두 용액](https://www.acmicpc.net/problem/2470) 2470  
+
+### DP
+ * **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) 1520   
+ * **BOJ** [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) 1937  
+
 
 <!--
 * Sort
