@@ -1,4 +1,4 @@
-#List
+# List
 
 ### 시뮬레이션    
  * **BOJ** [캐슬디펜스](https://www.acmicpc.net/problem/17135) 17135   
@@ -28,6 +28,9 @@
 ### DP
  * **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) 1520   
  * **BOJ** [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) 1937  
+ * **BOJ** [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) 17070  
+ * **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865) 12865  
+
 
 
 <!--
