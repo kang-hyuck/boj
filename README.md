@@ -18,6 +18,7 @@
  * **BOJ** [치즈](https://www.acmicpc.net/problem/2636) 2636  
  * **BOJ** [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) 16954  
  * **BOJ** [빙산](https://www.acmicpc.net/problem/2573) 2573  
+ * **BOJ** [환승](https://www.acmicpc.net/problem/5214) 5214  
 
 ### 투 포인터 
  * **BOJ** [수들의 합2](https://www.acmicpc.net/problem/2003) 2003  
@@ -28,7 +29,8 @@
 ### DP
  * **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) 1520   
  * **BOJ** [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) 1937  
- * **BOJ** [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) 17070  
+ * **BOJ** [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) 17070 
+ * **BOJ** [로봇 조종하기](https://www.acmicpc.net/problem/2169) 2169  
  * **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865) 12865  
 
 ### 백트래킹
