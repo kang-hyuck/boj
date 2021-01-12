@@ -12,6 +12,8 @@
  * **BOJ** [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 20055  
  * **BOJ** [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  20056  
  * **BOJ** [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  20057   
+ * **BOJ** [구슬탈출2](https://www.acmicpc.net/problem/13460) 13460  
+
 
 
 ### DFS,BFS  
@@ -39,6 +41,8 @@
 ### 백트래킹
  * **BOJ** [알파벳](https://www.acmicpc.net/problem/1987) 1987  
 
+### 비트마스크
+ * **BOJ** [아맞다우산](https://www.acmicpc.net/problem/17244) 17244  
 
 
 
