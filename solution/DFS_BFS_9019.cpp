@@ -3,7 +3,6 @@
  불필요한 string 사용을 빼야한다.. 처음에 command[] 부분에도 string으로 정의했는데
  command가 자식호출하는 for문에서 매번 string끼리 비교하게 되는데 이게 시간을 엄청 잡아먹는다
  제한시간이 6초인데도 시간초과가 난거 보면 불필요한 "string 비교 부분" 최대한 사용하지 말아야함
- 
 */
 #include <iostream>
 #include <queue>
