@@ -20,7 +20,7 @@
  * **BOJ** [상범 빌딩](https://www.acmicpc.net/problem/6593) 6593 [`코드`](./solution/DFS_BFS_6593.cpp)    
  * **BOJ** [DSLR](https://www.acmicpc.net/problem/9019) 9019 [`코드`](./solution/DFS_BFS_9019.cpp)    
  * **BOJ** [환승](https://www.acmicpc.net/problem/5214) 5214 [`코드`](./solution/DFS_BFS_5214.cpp)   
- * **BOJ** [숨바꼭질2](https://www.acmicpc.net/problem/12851) 12851  
+ * **BOJ** [숨바꼭질2](https://www.acmicpc.net/problem/12851) 12851 [`코드`](./solution/DFS_BFS_12851.cpp)   
   
 ### 투 포인터 
  * **BOJ** [수들의 합2](https://www.acmicpc.net/problem/2003) 2003 [`코드`](./solution/Two-Pointer_2003.cpp)    
@@ -40,8 +40,8 @@
 
 ### 비트마스크
  * **BOJ** [아맞다우산](https://www.acmicpc.net/problem/17244) 17244 [`코드`](./solution/Bitmask_17244.cpp)   
- * **BOJ** [가르침](https://www.acmicpc.net/problem/1062) 1062  
- * **BOJ** [성곽](https://www.acmicpc.net/problem/2234) 2234  
+ * **BOJ** [가르침](https://www.acmicpc.net/problem/1062) 1062 [`코드`](./solution/Bitmask_1062.cpp)   
+ * **BOJ** [성곽](https://www.acmicpc.net/problem/2234) 2234 [`코드`](./solution/Bitmask_2234.cpp)   
 
 
 
