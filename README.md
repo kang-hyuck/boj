@@ -13,6 +13,7 @@
  * **BOJ** [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  20057 [`코드`](./solution/Simulation_20057.cpp)  
  * **BOJ** [구슬탈출2](https://www.acmicpc.net/problem/13460) 13460 [`코드`](./solution/Simulation_13460.cpp)   
 
+
 ### DFS,BFS  
  * **BOJ** [치즈](https://www.acmicpc.net/problem/2636) 2636 [`코드`](./solution/DFS_BFS_2636.cpp)   
  * **BOJ** [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) 16954 [`코드`](./solution/DFS_BFS_16954.cpp)   
@@ -21,12 +22,15 @@
  * **BOJ** [DSLR](https://www.acmicpc.net/problem/9019) 9019 [`코드`](./solution/DFS_BFS_9019.cpp)    
  * **BOJ** [환승](https://www.acmicpc.net/problem/5214) 5214 [`코드`](./solution/DFS_BFS_5214.cpp)   
  * **BOJ** [숨바꼭질2](https://www.acmicpc.net/problem/12851) 12851 [`코드`](./solution/DFS_BFS_12851.cpp)   
+ * **BOJ** [미로 탈출](https://www.acmicpc.net/problem/14923) 14923 [`코드`](./solution/DFS_BFS_14923.cpp)  
+
   
 ### 투 포인터 
  * **BOJ** [수들의 합2](https://www.acmicpc.net/problem/2003) 2003 [`코드`](./solution/Two-Pointer_2003.cpp)    
  * **BOJ** [부분합](https://www.acmicpc.net/problem/1806) 1806 [`코드`](./solution/Two-Pointer_1806.cpp)   
  * **BOJ** [소수의 연속합](https://www.acmicpc.net/problem/1644) 1644 [`코드`](./solution/Two-Pointer_1644.cpp)   
  * **BOJ** [두 용액](https://www.acmicpc.net/problem/2470) 2470 [`코드`](./solution/Two-Pointer_2470.cpp)   
+
 
 ### DP
  * **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) 1520  [`코드`](./solution/DP_1520.cpp)   
@@ -35,14 +39,19 @@
  * **BOJ** [로봇 조종하기](https://www.acmicpc.net/problem/2169) 2169 [`코드`](./solution/DP_2169.cpp)   
  * **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865) 12865 [`코드`](./solution/DP_12865.cpp)   
 
+
 ### 백트래킹
  * **BOJ** [알파벳](https://www.acmicpc.net/problem/1987) 1987 [`코드`](./solution/Backtracking_1987.cpp)    
+ * **BOJ** [사다리조작](https://www.acmicpc.net/problem/15684) 15684 [`코드`](./solution/Backtracking_15684.cpp)   
+ * **BOJ** [비숍](https://www.acmicpc.net/problem/1799) 1799 [`코드`](./solution/Backtracking_1799.cpp)   
+ * **BOJ** [소문난 칠공주](https://www.acmicpc.net/problem/1941) 1941 [`코드`](./solution/Backtracking_1941.cpp)  
+
 
 ### 비트마스크
  * **BOJ** [아맞다우산](https://www.acmicpc.net/problem/17244) 17244 [`코드`](./solution/Bitmask_17244.cpp)   
  * **BOJ** [가르침](https://www.acmicpc.net/problem/1062) 1062 [`코드`](./solution/Bitmask_1062.cpp)   
  * **BOJ** [성곽](https://www.acmicpc.net/problem/2234) 2234 [`코드`](./solution/Bitmask_2234.cpp)   
-
+ * **BOJ** [스도쿠](https://www.acmicpc.net/problem/2239) 2239 [`코드`](./solution/Bitmask_2239.cpp)   
 
 
 
