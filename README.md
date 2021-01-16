@@ -7,6 +7,7 @@
  * **BOJ** [Puyo Puyo](https://www.acmicpc.net/problem/11559) 11559 [`코드`](./solution/Simulation_11559.cpp)   
  * **BOJ** [보이저 1호](https://www.acmicpc.net/problem/3987) 3987 [`코드`](./solution/Simulation_3987.cpp)   
  * **BOJ** [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) 2174 [`코드`](./solution/Simulation_2174.cpp)  
+ * **BOJ** [행운의 바퀴](https://www.acmicpc.net/problem/2840) 2840 [`코드`](./solution/Simulation_2840.cpp)   
  * **BOJ** [개미](https://www.acmicpc.net/problem/3048) 3048 [`코드`](./solution/Simulation_3048.cpp)   
  * **BOJ** [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) 20055 [`코드`](./solution/Simulation_20055.cpp)   
  * **BOJ** [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  20056 [`코드`](./solution/Simulation_20056.cpp)   
@@ -45,6 +46,7 @@
  * **BOJ** [사다리조작](https://www.acmicpc.net/problem/15684) 15684 [`코드`](./solution/Backtracking_15684.cpp)   
  * **BOJ** [비숍](https://www.acmicpc.net/problem/1799) 1799 [`코드`](./solution/Backtracking_1799.cpp)   
  * **BOJ** [소문난 칠공주](https://www.acmicpc.net/problem/1941) 1941 [`코드`](./solution/Backtracking_1941.cpp)  
+ * **BOJ** [색종이 붙이기](https://www.acmicpc.net/problem/17136) 17136 [`코드`](./solution/Backtracking_17136.cpp)  
 
 
 ### 비트마스크
