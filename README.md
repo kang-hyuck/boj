@@ -39,6 +39,7 @@
  * **BOJ** [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) 17070 [`코드`](./solution/DP_17070.cpp)  
  * **BOJ** [로봇 조종하기](https://www.acmicpc.net/problem/2169) 2169 [`코드`](./solution/DP_2169.cpp)   
  * **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865) 12865 [`코드`](./solution/DP_12865.cpp)   
+ * **BOJ** [1학년](https://www.acmicpc.net/problem/5557) 5557 [`코드`](./solution/DP_5557.cpp)   
 
 
 ### 백트래킹
@@ -55,6 +56,10 @@
  * **BOJ** [성곽](https://www.acmicpc.net/problem/2234) 2234 [`코드`](./solution/Bitmask_2234.cpp)   
  * **BOJ** [스도쿠](https://www.acmicpc.net/problem/2239) 2239 [`코드`](./solution/Bitmask_2239.cpp)   
 
+
+### 스택
+ * **BOJ** [탑](https://www.acmicpc.net/problem/2493) 2493 [`코드`](./solution/Stack_2493.cpp)  
+ * **BOJ** [문자열 폭발](https://www.acmicpc.net/problem/9935) 9935 [`코드`](./solution/Stack_9935.cpp)  
 
 
 
