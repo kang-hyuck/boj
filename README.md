@@ -59,6 +59,7 @@
 
 ### 스택
  * **BOJ** [탑](https://www.acmicpc.net/problem/2493) 2493 [`코드`](./solution/Stack_2493.cpp)  
+ * **BOJ** [크게 만들기](https://www.acmicpc.net/problem/2812) 2812 [`코드`](./solution/Stack_2812.cpp)  
  * **BOJ** [문자열 폭발](https://www.acmicpc.net/problem/9935) 9935 [`코드`](./solution/Stack_9935.cpp)  
 
 
