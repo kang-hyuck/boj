@@ -13,6 +13,7 @@
  * **BOJ** [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  20056 [`코드`](./solution/Simulation_20056.cpp)   
  * **BOJ** [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  20057 [`코드`](./solution/Simulation_20057.cpp)  
  * **BOJ** [구슬탈출2](https://www.acmicpc.net/problem/13460) 13460 [`코드`](./solution/Simulation_13460.cpp)   
+ * **BOJ** [로봇 청소기](https://www.acmicpc.net/problem/14503) 14503 [`코드`](./solution/Simulation_14503.cpp)   
 
 
 ### DFS,BFS  
@@ -24,6 +25,7 @@
  * **BOJ** [환승](https://www.acmicpc.net/problem/5214) 5214 [`코드`](./solution/DFS_BFS_5214.cpp)   
  * **BOJ** [숨바꼭질2](https://www.acmicpc.net/problem/12851) 12851 [`코드`](./solution/DFS_BFS_12851.cpp)   
  * **BOJ** [미로 탈출](https://www.acmicpc.net/problem/14923) 14923 [`코드`](./solution/DFS_BFS_14923.cpp)  
+ * **BOJ** [보물섬](https://www.acmicpc.net/problem/2589) 2589 [`코드`](./solution/DFS_BFS_2589.cpp)  
 
   
 ### 투 포인터 
