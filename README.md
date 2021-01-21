@@ -51,6 +51,7 @@
  * **BOJ** [소문난 칠공주](https://www.acmicpc.net/problem/1941) 1941 [`코드`](./solution/Backtracking_1941.cpp)  
  * **BOJ** [색종이 붙이기](https://www.acmicpc.net/problem/17136) 17136 [`코드`](./solution/Backtracking_17136.cpp)  
  * **BOJ** [단어 수학](https://www.acmicpc.net/problem/1339) 1339 [`코드`](./solution/Backtracking_1339.cpp)  
+ * **BOJ** [좋은 수열](https://www.acmicpc.net/problem/2661) 2661 [`코드`](./solution/Backtracking_2661.cpp)  
 
 
 ### 비트마스크
