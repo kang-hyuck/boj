@@ -67,6 +67,10 @@
  * **BOJ** [문자열 폭발](https://www.acmicpc.net/problem/9935) 9935 [`코드`](./solution/Stack_9935.cpp)  
 
 
+### 브루트포스
+* **BOJ** [테트로미노](https://www.acmicpc.net/problem/14500) 14500 [`코드`](./solution/Bruteforce_14500.cpp)  
+
+
 
 <!--
 * Sort
