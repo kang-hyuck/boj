@@ -14,6 +14,7 @@
  * **BOJ** [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  20057 [`코드`](./solution/Simulation_20057.cpp)  
  * **BOJ** [구슬탈출2](https://www.acmicpc.net/problem/13460) 13460 [`코드`](./solution/Simulation_13460.cpp)   
  * **BOJ** [로봇 청소기](https://www.acmicpc.net/problem/14503) 14503 [`코드`](./solution/Simulation_14503.cpp)   
+ * **BOJ** [톱니바퀴](https://www.acmicpc.net/problem/14891) 14891 [`코드`](./solution/Simulation_14891.cpp)   
 
 
 ### DFS,BFS  
@@ -26,6 +27,7 @@
  * **BOJ** [숨바꼭질2](https://www.acmicpc.net/problem/12851) 12851 [`코드`](./solution/DFS_BFS_12851.cpp)   
  * **BOJ** [미로 탈출](https://www.acmicpc.net/problem/14923) 14923 [`코드`](./solution/DFS_BFS_14923.cpp)  
  * **BOJ** [보물섬](https://www.acmicpc.net/problem/2589) 2589 [`코드`](./solution/DFS_BFS_2589.cpp)  
+ * **BOJ** [숨바꼭질4](https://www.acmicpc.net/problem/13913) 13913 [`코드`](./solution/DFS_BFS_13913.cpp)  
 
   
 ### 투 포인터 
@@ -52,6 +54,7 @@
  * **BOJ** [색종이 붙이기](https://www.acmicpc.net/problem/17136) 17136 [`코드`](./solution/Backtracking_17136.cpp)  
  * **BOJ** [단어 수학](https://www.acmicpc.net/problem/1339) 1339 [`코드`](./solution/Backtracking_1339.cpp)  
  * **BOJ** [좋은 수열](https://www.acmicpc.net/problem/2661) 2661 [`코드`](./solution/Backtracking_2661.cpp)  
+ * **BOJ** [감시](https://www.acmicpc.net/problem/15683) 15683 [`코드`](./solution/Backtracking_15683.cpp)  
 
 
 ### 비트마스크
