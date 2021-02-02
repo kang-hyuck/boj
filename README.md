@@ -16,6 +16,7 @@
  * **BOJ** [로봇 청소기](https://www.acmicpc.net/problem/14503) 14503 [`코드`](./solution/Simulation_14503.cpp)   
  * **BOJ** [톱니바퀴](https://www.acmicpc.net/problem/14891) 14891 [`코드`](./solution/Simulation_14891.cpp)   
  * **BOJ** [아기 상어](https://www.acmicpc.net/problem/16236) 16236 [`코드`](./solution/Simulation_16236.cpp)   
+ * **BOJ** [청소년 상어](https://www.acmicpc.net/problem/19236) 19236 [`코드`](./solution/Simulation_19236.cpp)   
 
 
 ### DFS,BFS  
