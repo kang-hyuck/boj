@@ -70,6 +70,7 @@
  * **BOJ** [탑](https://www.acmicpc.net/problem/2493) 2493 [`코드`](./boj/Stack_2493.cpp)  
  * **BOJ** [크게 만들기](https://www.acmicpc.net/problem/2812) 2812 [`코드`](./boj/Stack_2812.cpp)  
  * **BOJ** [문자열 폭발](https://www.acmicpc.net/problem/9935) 9935 [`코드`](./boj/Stack_9935.cpp)  
+ * **SWEA** [외로운 문자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&passFilterYn=Y&contestProbId=AXVJuEvqLAADFASe&categoryId=AXVJuEvqLAADFASe&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1) 10912
 
 
 ### 브루트포스
