@@ -75,5 +75,6 @@
 
 ### 브루트포스
 * **BOJ** [테트로미노](https://www.acmicpc.net/problem/14500) 14500 [`코드`](./boj/Bruteforce_14500.cpp)  
+* **BOJ** [게리맨더링 2](https://www.acmicpc.net/problem/17779) 17779 [`코드`](./boj/Bruteforce_17779.cpp)  
 
 
