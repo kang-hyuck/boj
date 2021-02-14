@@ -18,6 +18,7 @@
  * **BOJ** [아기 상어](https://www.acmicpc.net/problem/16236) 16236 [`코드`](./boj/Simulation_16236.cpp)   
  * **BOJ** [청소년 상어](https://www.acmicpc.net/problem/19236) 19236 [`코드`](./boj/Simulation_19236.cpp)   
  * **BOJ** [새로운 게임2](https://www.acmicpc.net/problem/17837) 17837 [`코드`](./boj/Simulation_17837.cpp)   
+ * **BOJ** [카드 캡터 상근이](https://www.acmicpc.net/problem/5587) 5587 [`코드`](./boj/Simulation_5587.cpp)   
  * **BOJ** [원판 돌리기](https://www.acmicpc.net/problem/17822) 17822 [`코드`](./boj/Simulation_17822.cpp)   
 
 
