@@ -62,6 +62,12 @@
  * **BOJ** [감시](https://www.acmicpc.net/problem/15683) 15683 [`코드`](./boj/Backtracking_15683.cpp)  
  * **BOJ** [주사위 윷놀이](https://www.acmicpc.net/problem/17825) 17825 [`코드`](./boj/Backtracking_17825.cpp)  
 
+### 세그먼트트리
+ * **BOJ** [구간 합 구하기](https://www.acmicpc.net/problem/2042) 2042 [`코드`](./boj/SegmentTree_2042.cpp) 
+ * **BOJ** [구간 곱 구하기](https://www.acmicpc.net/problem/11505) 11505 [`코드`](./boj/SegmentTree_11505.cpp) 
+ * **BOJ** [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) 2357 [`코드`](./boj/SegmentTree_2357.cpp) 
+ * **BOJ** [히스토그램](https://www.acmicpc.net/problem/1725) 1725 [`코드`](./boj/SegmentTree_1725.cpp) 
+
 
 ### 비트마스크
  * **BOJ** [아맞다우산](https://www.acmicpc.net/problem/17244) 17244 [`코드`](./boj/Bitmask_17244.cpp)   
@@ -80,5 +86,8 @@
 ### 브루트포스
 * **BOJ** [테트로미노](https://www.acmicpc.net/problem/14500) 14500 [`코드`](./boj/Bruteforce_14500.cpp)  
 * **BOJ** [게리맨더링 2](https://www.acmicpc.net/problem/17779) 17779 [`코드`](./boj/Bruteforce_17779.cpp)  
+
+
+
 
 
