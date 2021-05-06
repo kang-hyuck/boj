@@ -82,7 +82,7 @@
 * **BOJ** [게리맨더링 2](https://www.acmicpc.net/problem/17779) 17779 [`코드`](./boj/Bruteforce_17779.cpp)  
 
 
-### 세그먼트트리
+### 세그먼트 트리 / 펜윅 트리
  * **BOJ** [구간 합 구하기](https://www.acmicpc.net/problem/2042) 2042 [`코드`](./boj/SegmentTree_2042.cpp) 
  * **BOJ** [구간 곱 구하기](https://www.acmicpc.net/problem/11505) 11505 [`코드`](./boj/SegmentTree_11505.cpp) 
  * **BOJ** [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) 2357 [`코드`](./boj/SegmentTree_2357.cpp) 
@@ -95,8 +95,13 @@
 * **BOJ** [우수 마을](https://www.acmicpc.net/problem/1949) 1949 [`코드`](./boj/TreeDP_1949.cpp)  
 
 
+### 분할 정복 
+* **BOJ** [색종이 만들기](https://www.acmicpc.net/problem/2630) 2630 [`코드`](./boj/DivideConquer_2630.cpp)  
+* **BOJ** [쿼드트리](https://www.acmicpc.net/problem/1992) 1992 [`코드`](./boj/DivideConquer_1992.cpp)  
 
 
+### 트라이 
+* **BOJ** [전화번호 목록](https://www.acmicpc.net/problem/5052) 5052 [`코드`](./boj/Trie_5052.cpp)  
 
 
 
