@@ -83,7 +83,7 @@
 
 
 ### 세그먼트 트리 / 펜윅 트리
- * **BOJ** [구간 합 구하기](https://www.acmicpc.net/problem/2042) 2042 [`코드`](./boj/SegmentTree_2042.cpp) 
+ * **BOJ** [구간 합 구하기](https://www.acmicpc.net/problem/2042) 2042 [`코드`](./boj/SegmentTree_2042.cpp) [`코드`](./boj/FenwickTree_2042.cpp) 
  * **BOJ** [구간 곱 구하기](https://www.acmicpc.net/problem/11505) 11505 [`코드`](./boj/SegmentTree_11505.cpp) 
  * **BOJ** [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) 2357 [`코드`](./boj/SegmentTree_2357.cpp) 
  * **BOJ** [히스토그램](https://www.acmicpc.net/problem/1725) 1725 [`코드`](./boj/SegmentTree_1725.cpp) 
