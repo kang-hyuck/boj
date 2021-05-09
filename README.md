@@ -98,6 +98,9 @@
 ### 분할 정복 
 * **BOJ** [색종이 만들기](https://www.acmicpc.net/problem/2630) 2630 [`코드`](./boj/DivideConquer_2630.cpp)  
 * **BOJ** [쿼드트리](https://www.acmicpc.net/problem/1992) 1992 [`코드`](./boj/DivideConquer_1992.cpp)  
+* **BOJ** [Z](https://www.acmicpc.net/problem/1074) 1074 [`코드`](./boj/DivideConquer_1074.cpp)  
+* **BOJ** [곱셈](https://www.acmicpc.net/problem/1629) 1629 [`코드`](./boj/DivideConquer_1629.cpp)  
+* **BOJ** [행렬 제곱](https://www.acmicpc.net/problem/10830) 10830 [`코드`](./boj/DivideConquer_10830.cpp)  
 
 
 ### 트라이 
