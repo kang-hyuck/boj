@@ -107,5 +107,10 @@
 * **BOJ** [전화번호 목록](https://www.acmicpc.net/problem/5052) 5052 [`코드`](./boj/Trie_5052.cpp)  
 
 
+### 이분탐색
+* **BOJ** [나무 자르기](https://www.acmicpc.net/problem/2805) 2805 [`코드`](./boj/BinarySearch_2805)  
+* **BOJ** [중량제한](https://www.acmicpc.net/problem/1939) 1939 [`코드`](./boj/BinarySearch_1939.cpp)  
+* **BOJ** [사냥꾼](https://www.acmicpc.net/problem/8983) 8983 [`코드`](./boj/BinarySearch_8983.cpp)  
+
 
 
